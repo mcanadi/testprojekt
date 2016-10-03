@@ -79,6 +79,7 @@
             this.Goran2.TabIndex = 4;
             this.Goran2.Text = "Goran2";
             this.Goran2.UseVisualStyleBackColor = true;
+            this.Goran2.Click += new System.EventHandler(this.Goran2_Click);
             // 
             // Form1
             // 

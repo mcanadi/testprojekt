@@ -16,5 +16,10 @@ namespace testprojekt
         {
             InitializeComponent();
         }
+
+        private void Goran2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
